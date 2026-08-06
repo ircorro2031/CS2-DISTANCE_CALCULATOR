@@ -1,6 +1,6 @@
 # Distance Calculator
 
-The project is called a distance calculator. It's a simple system that helps users calculate the distance between two points by inputting each coordinate into the program and using the distance formula.
+The project is called a distance calculator. It is a simple system that helps users calculate the distance between two points by entering the coordinates and using the distance formula.
 
 ## Key features
 
