@@ -1,15 +1,15 @@
-# Distance Calculaor
+## Distance Calculator
 
 The project is called a distance calculator. It's a simple system that helps users calculate the distance between two points by inputting each coordinate into the program and using the distance formula.
 
-Key features:
+# Key features
 
 - Asks for the coordinates
 - Uses the functions sqrt() and pow() coming from the math library
 - Computes the distance between the two points using the distance formula
 - Gives a straightforward result
 
-How to run:
+# Usage
 
 1. Run the Python file
 2. Input the coordinates
